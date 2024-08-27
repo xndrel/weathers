@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893731955291",
+    "project_id": "wassup-9bdbd",
+    "storage_bucket": "wassup-9bdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893731955291:android:9f0517a0454a4f538c157e",
+        "android_client_info": {
+          "package_name": "com.example.wassup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_IBl_2AXAH3Q1ndtf0I-0MFTMXXFamlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
